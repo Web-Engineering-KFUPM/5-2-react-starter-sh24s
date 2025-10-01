@@ -45,6 +45,7 @@ function Welcome() {
 
 ---
 
+
 ## Structure of a React Project
 When you create a React project (using Vite or Create React App), the structure looks like this:
 
